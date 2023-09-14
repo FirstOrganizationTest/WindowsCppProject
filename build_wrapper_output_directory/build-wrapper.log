@@ -1,0 +1,144 @@
+Thu Sep 14 10:02:52 2023: build-wrapper, version 6.48.1 (win-x86-64)
+Thu Sep 14 10:02:52 2023: isWow64: 0
+Thu Sep 14 10:02:52 2023: windows version: 10.0, service pack: 0.0, build number: 19045, product type: 1
+Thu Sep 14 10:02:52 2023: current directory: C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject
+Thu Sep 14 10:02:52 2023: cwd: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject>
+Thu Sep 14 10:02:52 2023: out-dir absolute path: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\build_wrapper_output_directory>
+Thu Sep 14 10:02:52 2023: command line received: <MSBuild.exe /t:Rebuild /nodeReuse:False>
+Thu Sep 14 10:02:52 2023: initializing json file
+Thu Sep 14 10:02:52 2023: starting debug cycle
+Thu Sep 14 10:02:52 2023: process created with pid: 33184
+Thu Sep 14 10:02:52 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe>
+Thu Sep 14 10:02:52 2023: command line: <MSBuild.exe /t:Rebuild /nodeReuse:False>
+Thu Sep 14 10:02:52 2023: working directory: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\>
+Thu Sep 14 10:02:52 2023: isWow64: 1
+Thu Sep 14 10:02:52 2023: skipping process C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe with pid: 33184
+Thu Sep 14 10:02:52 2023: process created with pid: 30440
+Thu Sep 14 10:02:52 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Tracker.exe>
+Thu Sep 14 10:02:52 2023: command line: <"C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Tracker.exe" @"C:\Users\rakesh.upadhye\AppData\Local\Temp\tmp6c0afecac07142cd88c4261d1c327205.tmp" /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\CL.exe"  @"C:\Users\rakesh.upadhye\AppData\Local\Temp\MSBuildTemprakesh.upadhye\tmpd55dcffad9ed47a8807f5a12ae064d9e.rsp">
+Thu Sep 14 10:02:52 2023: working directory: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\>
+Thu Sep 14 10:02:52 2023: isWow64: 1
+Thu Sep 14 10:02:52 2023: skipping process C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Tracker.exe with pid: 30440
+Thu Sep 14 10:02:52 2023: process created with pid: 13528
+Thu Sep 14 10:02:52 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\CL.exe>
+Thu Sep 14 10:02:52 2023: command line: <"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\CL.exe" @C:\Users\rakesh.upadhye\AppData\Local\Temp\MSBuildTemprakesh.upadhye\tmpd55dcffad9ed47a8807f5a12ae064d9e.rsp>
+Thu Sep 14 10:02:52 2023: working directory: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\>
+Thu Sep 14 10:02:52 2023: isWow64: 1
+Thu Sep 14 10:02:52 2023: content of C:\Users\rakesh.upadhye\AppData\Local\Temp\MSBuildTemprakesh.upadhye\tmpd55dcffad9ed47a8807f5a12ae064d9e.rsp: </c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:queue WindowsCppProject.cpp>
+Thu Sep 14 10:02:52 2023: VirtualQueryEx 00000000001109C0
+Thu Sep 14 10:02:52 2023: 	Offset 2496
+Thu Sep 14 10:02:52 2023: 	VirtualQueryEx Base	BaseAddr: 0000000000110000	AllocationBase: 0000000000110000	AllocationProtect: 0x4	Protect: 0x4	State: 0x1000	RegionSize: 131072	Type: 0x20000
+Thu Sep 14 10:02:52 2023: Read environment of size 7957
+Thu Sep 14 10:02:52 2023: env0: <=::=::\>
+Thu Sep 14 10:02:52 2023: env1: <=C:=C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject>
+Thu Sep 14 10:02:52 2023: env2: <=ExitCode=00000000>
+Thu Sep 14 10:02:52 2023: env3: <ALLUSERSPROFILE=C:\ProgramData>
+Thu Sep 14 10:02:52 2023: env4: <ANT_HOME=C:\Program Files\Ant>
+Thu Sep 14 10:02:52 2023: env5: <APPDATA=C:\Users\rakesh.upadhye\AppData\Roaming>
+Thu Sep 14 10:02:52 2023: env6: <CAExcludePath=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\atlmfc\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;>
+Thu Sep 14 10:02:52 2023: env7: <ChocolateyInstall=C:\ProgramData\chocolatey>
+Thu Sep 14 10:02:52 2023: env8: <ChocolateyLastPathUpdate=133192783578124831>
+Thu Sep 14 10:02:52 2023: env9: <CommonProgramFiles=C:\Program Files (x86)\Common Files>
+Thu Sep 14 10:02:52 2023: env10: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Thu Sep 14 10:02:52 2023: env11: <CommonProgramW6432=C:\Program Files\Common Files>
+Thu Sep 14 10:02:52 2023: env12: <COMPUTERNAME=PC-L0142>
+Thu Sep 14 10:02:52 2023: env13: <ComSpec=C:\Windows\system32\cmd.exe>
+Thu Sep 14 10:02:52 2023: env14: <CYGWIN=wincmdln>
+Thu Sep 14 10:02:52 2023: env15: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Thu Sep 14 10:02:52 2023: env16: <EXTERNAL_INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;>
+Thu Sep 14 10:02:52 2023: env17: <HOMEDRIVE=C:>
+Thu Sep 14 10:02:52 2023: env18: <HOMEPATH=\Users\rakesh.upadhye>
+Thu Sep 14 10:02:52 2023: env19: <IGCCSVC_DB=AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAxG0B1V9eSUWkyLAbbVYH7gQAAAACAAAAAAAQZgAAAAEAACAAAABNf3E++FTQ2L+X9GnUoBhTg6caI9xnB7xB+yYhAoMvAwAAAAAOgAAAAAIAACAAAACx3egVRVyLwA0yo2OJbz2tD4ThuaiNFLBvc2nXdtz3WWAAAAArGlN7e736A+jRP5ZDIJ9GUmM9XxdFkFE9UuLA0Y8yz6lA1x8gnkO+AMI0fFthNx4bA1pFnPocMEIO00MVqVhxrbONweX0V0Y4EXQzdS8jBtPqmKUOMcbw5rCbzHc+eOBAAAAADJa8Sw5dGrVpCEO9wsFTuv4zzawAw9OYpcwhX6YDs8B8PxnrCekwsjBVGS2rUZj8HJfgcfqa+YXGZkk5e/9Ijg==>
+Thu Sep 14 10:02:52 2023: env20: <INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;>
+Thu Sep 14 10:02:52 2023: env21: <IntelliJ IDEA Community Edition=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin;>
+Thu Sep 14 10:02:52 2023: env22: <JAVA_HOME=C:\Program Files\java\jdk-11>
+Thu Sep 14 10:02:52 2023: env23: <LIB=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64;>
+Thu Sep 14 10:02:52 2023: env24: <LIBPATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\lib\x64;>
+Thu Sep 14 10:02:52 2023: env25: <LOCALAPPDATA=C:\Users\rakesh.upadhye\AppData\Local>
+Thu Sep 14 10:02:52 2023: env26: <LOGONSERVER=\\PC-L0142>
+Thu Sep 14 10:02:52 2023: env27: <MSBuildLoadMicrosoftTargetsReadOnly=true>
+Thu Sep 14 10:02:52 2023: env28: <MVN_HOME=C:\Program Files\maven>
+Thu Sep 14 10:02:52 2023: env29: <NUMBER_OF_PROCESSORS=20>
+Thu Sep 14 10:02:52 2023: env30: <OneDrive=C:\Users\rakesh.upadhye\OneDrive>
+Thu Sep 14 10:02:52 2023: env31: <OS=Windows_NT>
+Thu Sep 14 10:02:52 2023: env32: <Path=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\Python38\Scripts\;C:\Program Files\Python38\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\java\jdk-11\bin;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Gradle\bin;C:\Program Files\PuTTY\;C:\Program Files\Ant\bin;C:\Program Files\maven\bin;C:\Program Files\nodejs\;C:\Program Files\ngrok;C:\Users\rakesh.upadhye\rakesh\Scanner\sonar-scanner-cli-4.8.0.2856\bin;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\Program Files\PostgreSQL\13\bin;C:\Users\rakesh.upadhye\rakesh\Scanner\sonar-scanner-msbuild-5.4.0.40033-net46;C:\Users\rakesh.upadhye\rakesh\sonarqube\SQ-9.9\extensions\jdbc-driver\ms-sql\;;C:\Program Files\Docker\Docker\resources\bin;C:\Users\rakesh.upadhye\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\rakesh.upadhye\AppData\Local\Programs\Python\Python311\;C:\Users\rakesh.upadhye\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin;;C:\Program Files\Azure Data Studio\bin;C:\Users\rakesh.upadhye\AppData\Roaming\npm;C:\Users\rakesh.upadhye\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\rakesh.upadhye\.dotnet\tools;C:\Program Files\JetBrains\PyCharm Edu 2022.2.2\bin;;>
+Thu Sep 14 10:02:52 2023: env33: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW>
+Thu Sep 14 10:02:52 2023: env34: <PROCESSOR_ARCHITECTURE=x86>
+Thu Sep 14 10:02:52 2023: env35: <PROCESSOR_ARCHITEW6432=AMD64>
+Thu Sep 14 10:02:52 2023: env36: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 154 Stepping 3, GenuineIntel>
+Thu Sep 14 10:02:52 2023: env37: <PROCESSOR_LEVEL=6>
+Thu Sep 14 10:02:52 2023: env38: <PROCESSOR_REVISION=9a03>
+Thu Sep 14 10:02:52 2023: env39: <ProgramData=C:\ProgramData>
+Thu Sep 14 10:02:52 2023: env40: <ProgramFiles=C:\Program Files (x86)>
+Thu Sep 14 10:02:52 2023: env41: <ProgramFiles(x86)=C:\Program Files (x86)>
+Thu Sep 14 10:02:52 2023: env42: <ProgramW6432=C:\Program Files>
+Thu Sep 14 10:02:52 2023: env43: <PROMPT=$P$G>
+Thu Sep 14 10:02:52 2023: env44: <PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\PowerShell\Modules\>
+Thu Sep 14 10:02:52 2023: env45: <PUBLIC=C:\Users\Public>
+Thu Sep 14 10:02:52 2023: env46: <PyCharm Edu=C:\Program Files\JetBrains\PyCharm Edu 2022.2.2\bin;>
+Thu Sep 14 10:02:52 2023: env47: <SESSIONNAME=Console>
+Thu Sep 14 10:02:52 2023: env48: <SONAR_JAVA_PATH=C:\Program Files\java\jdk-17.0.2\bin\java.exe>
+Thu Sep 14 10:02:52 2023: env49: <SystemDrive=C:>
+Thu Sep 14 10:02:52 2023: env50: <SystemRoot=C:\Windows>
+Thu Sep 14 10:02:52 2023: env51: <TEMP=C:\Users\RAKESH~1.UPA\AppData\Local\Temp>
+Thu Sep 14 10:02:52 2023: env52: <TMP=C:\Users\RAKESH~1.UPA\AppData\Local\Temp>
+Thu Sep 14 10:02:52 2023: env53: <TRACKER_ENABLED=1>
+Thu Sep 14 10:02:52 2023: env54: <TRACKER_INTERMEDIATE=C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\x64\Debug\WindowsC.d4ed5453.tlog>
+Thu Sep 14 10:02:52 2023: env55: <TRACKER_OUTOFPROC=1>
+Thu Sep 14 10:02:52 2023: env56: <TRACKER_RESPONSEFILE=C:\Users\rakesh.upadhye\AppData\Local\Temp\tmp6c0afecac07142cd88c4261d1c327205.tmp>
+Thu Sep 14 10:02:52 2023: env57: <TRACKER_ROOTFILES=>
+Thu Sep 14 10:02:52 2023: env58: <TRACKER_TOOL=>
+Thu Sep 14 10:02:52 2023: env59: <TRACKER_TOOLCHAIN=>
+Thu Sep 14 10:02:52 2023: env60: <USERDOMAIN=PC-L0142>
+Thu Sep 14 10:02:52 2023: env61: <USERDOMAIN_ROAMINGPROFILE=PC-L0142>
+Thu Sep 14 10:02:52 2023: env62: <USERNAME=rakesh.upadhye>
+Thu Sep 14 10:02:52 2023: env63: <USERPROFILE=C:\Users\rakesh.upadhye>
+Thu Sep 14 10:02:52 2023: env64: <VS140COMNTOOLS=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\>
+Thu Sep 14 10:02:52 2023: env65: <VSTEL_ProjectID={d4ed5453-f04e-47dc-9a34-8365ef7c037c}>
+Thu Sep 14 10:02:52 2023: env66: <windir=C:\Windows>
+Thu Sep 14 10:02:52 2023: env67: <ZES_ENABLE_SYSMAN=1>
+Thu Sep 14 10:02:52 2023: env68: <_NO_DEBUG_HEAP=1>
+Thu Sep 14 10:02:53 2023: process created with pid: 13644
+Thu Sep 14 10:02:53 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\VCTIP.EXE>
+Thu Sep 14 10:02:53 2023: command line: <"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\VCTIP.EXE">
+Thu Sep 14 10:02:53 2023: working directory: <C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\>
+Thu Sep 14 10:02:53 2023: isWow64: 1
+Thu Sep 14 10:02:53 2023: skipping process C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\Hostx86\x64\vctip.exe with pid: 13644
+Thu Sep 14 10:02:53 2023: process with pid 13528 exit with code: 0 (0x0)
+Thu Sep 14 10:02:53 2023: process with pid 30440 exit with code: 0 (0x0)
+Thu Sep 14 10:02:53 2023: process created with pid: 40752
+Thu Sep 14 10:02:53 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Tracker.exe>
+Thu Sep 14 10:02:53 2023: command line: <"C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Tracker.exe" /a @"C:\Users\rakesh.upadhye\AppData\Local\Temp\tmp1242ac57174547e5bbd1e50f8a51f5a3.tmp" /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\link.exe"  /ERRORREPORT:QUEUE @"C:\Users\rakesh.upadhye\AppData\Local\Temp\MSBuildTemprakesh.upadhye\tmpc8c61c36b9c745289679057699435b0c.rsp">
+Thu Sep 14 10:02:53 2023: working directory: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\>
+Thu Sep 14 10:02:53 2023: isWow64: 1
+Thu Sep 14 10:02:53 2023: skipping process C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Tracker.exe with pid: 40752
+Thu Sep 14 10:02:53 2023: process created with pid: 5536
+Thu Sep 14 10:02:53 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\link.exe>
+Thu Sep 14 10:02:53 2023: command line: <"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\link.exe" /ERRORREPORT:QUEUE @C:\Users\rakesh.upadhye\AppData\Local\Temp\MSBuildTemprakesh.upadhye\tmpc8c61c36b9c745289679057699435b0c.rsp>
+Thu Sep 14 10:02:53 2023: working directory: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\>
+Thu Sep 14 10:02:53 2023: isWow64: 1
+Thu Sep 14 10:02:53 2023: skipping process C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\Hostx86\x64\link.exe with pid: 5536
+Thu Sep 14 10:02:53 2023: process created with pid: 4192
+Thu Sep 14 10:02:53 2023: image path name: <C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x86\rc.exe>
+Thu Sep 14 10:02:53 2023: command line: <rc /nologo /x /fo "C:\Users\RAKESH~1.UPA\AppData\Local\Temp\lnk{F82923CE-4D7F-4C40-B918-957EB0D6A2D8}.tmp" "C:\Users\RAKESH~1.UPA\AppData\Local\Temp\lnk{9D4D8B47-B533-491A-B48D-81F450293855}.tmp">
+Thu Sep 14 10:02:53 2023: working directory: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\>
+Thu Sep 14 10:02:53 2023: isWow64: 1
+Thu Sep 14 10:02:53 2023: skipping process C:\Program Files (x86)\Windows Kits\10\bin\10.0.22000.0\x86\rc.exe with pid: 4192
+Thu Sep 14 10:02:53 2023: process with pid 4192 exit with code: 0 (0x0)
+Thu Sep 14 10:02:53 2023: process created with pid: 40296
+Thu Sep 14 10:02:53 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\cvtres.exe>
+Thu Sep 14 10:02:53 2023: command line: <cvtres /machine:amd64 /nologo /out:"C:\Users\RAKESH~1.UPA\AppData\Local\Temp\lnk{58DA7969-675F-407B-A0FB-A9BBD65B7493}.tmp" /readonly "C:\Users\RAKESH~1.UPA\AppData\Local\Temp\lnk{F82923CE-4D7F-4C40-B918-957EB0D6A2D8}.tmp">
+Thu Sep 14 10:02:53 2023: working directory: <C:\Users\rakesh.upadhye\rakesh\tests\workspace\WindowsCppProject\>
+Thu Sep 14 10:02:53 2023: isWow64: 1
+Thu Sep 14 10:02:53 2023: skipping process C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\Hostx86\x64\cvtres.exe with pid: 40296
+Thu Sep 14 10:02:53 2023: process with pid 40296 exit with code: 0 (0x0)
+Thu Sep 14 10:02:53 2023: process created with pid: 31316
+Thu Sep 14 10:02:53 2023: image path name: <C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\mspdbsrv.exe>
+Thu Sep 14 10:02:53 2023: command line: <mspdbsrv.exe -start -spawn>
+Thu Sep 14 10:02:53 2023: working directory: <C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\HostX86\x64\>
+Thu Sep 14 10:02:53 2023: isWow64: 1
+Thu Sep 14 10:02:53 2023: skipping process C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\bin\Hostx86\x64\mspdbsrv.exe with pid: 31316
+Thu Sep 14 10:02:53 2023: process with pid 5536 exit with code: 0 (0x0)
+Thu Sep 14 10:02:53 2023: process with pid 40752 exit with code: 0 (0x0)
+Thu Sep 14 10:02:53 2023: process with pid 33184 exit with code: 0 (0x0)
+Thu Sep 14 10:02:53 2023: finalizing json file
